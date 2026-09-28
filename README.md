@@ -14,7 +14,7 @@ This repository contains my personal solutions to the exercises and programming 
 
 ## 🚀 Progress Tracker
 
-- [x] **Chapter 1:** Introduction to Computers, Programs, and Java
+- [ ] **Chapter 1:** Introduction to Computers, Programs, and Java
 - [ ] **Chapter 2:** Elementary Programming
 - [ ] **Chapter 3:** Selections
 - [ ] **Chapter 4:** Mathematical Functions, Characters, and Strings
